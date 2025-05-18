@@ -1,4 +1,4 @@
-### إحصائيات العاملين في القطاع الخاص لسنة 2024 | Statistics of private sector workers for the year 2024
+## إحصائيات العاملين في القطاع الخاص لسنة 2024 | Statistics of private sector workers for the year 2024
 #
 في هذ المشروع تم استخدام بيانات إحصائيات العاملين في القطاع الخاص لعام 2024م من وزارة الموارد البشرية والتنمية الاجتماعية بتاريخ اخر تحديث 2025-01 عبر منصة البيانات المفتوحة السعودية بموجب رخصة البيانات المفتوحة.
 - تم التعديل على البيانات الأصلية والاضافة عليها ومعالجتها وتحليلها لأغراض هذا المشروع.
@@ -13,7 +13,7 @@ The latest update was on 2025-01 through the Saudi Open Data Platform, under the
 
 
 
-### صور لوحة المعلومات | Dashboard images
+## صور لوحة المعلومات | Dashboard images
 
   <img src="Dashboard images/1.jpg"/>
   <img src="Dashboard images/2.jpg"/>
