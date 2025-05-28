@@ -17,6 +17,7 @@ The latest update was on 01-2025 through the Saudi Open Data Platform, under the
 
   <img src="Dashboard images/1.jpg"/>
   <img src="Dashboard images/2.jpg"/>
+
   <img src="Dashboard images/3.jpg"/>
   <img src="Dashboard images/4.jpg"/>
   <img src="Dashboard images/5.jpg"/>
