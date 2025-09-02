@@ -76,4 +76,4 @@ License: https://open.data.gov.sa/ar/pages/policies/license https://open.data.go
 #
 ## Website
 
-[Malik Almalki | مالك المالكي](https://malik.com.sa/)
+[Malik Almalki ](https://malik.com.sa/)
